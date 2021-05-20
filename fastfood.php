@@ -1,0 +1,1 @@
+<?php include "includes/functions/selectUshqimiFastFood.php";?>
